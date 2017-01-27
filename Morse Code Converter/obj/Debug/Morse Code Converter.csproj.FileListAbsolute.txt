@@ -1,0 +1,18 @@
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe.config
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.pdb
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csprojResolveAssemblyReference.cache
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Form1.resources
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Properties.Resources.resources
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csproj.GenerateResource.Cache
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.exe
+c:\users\hrishi\documents\visual studio 2015\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.pdb
+C:\Users\Hrishi\Desktop\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe.config
+C:\Users\Hrishi\Desktop\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.exe
+C:\Users\Hrishi\Desktop\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.pdb
+C:\Users\Hrishi\Desktop\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe
+C:\Users\Hrishi\Desktop\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.pdb
+C:\Users\Hrishi\Desktop\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csprojResolveAssemblyReference.cache
+C:\Users\Hrishi\Desktop\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Form1.resources
+C:\Users\Hrishi\Desktop\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Properties.Resources.resources
+C:\Users\Hrishi\Desktop\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csproj.GenerateResource.Cache
