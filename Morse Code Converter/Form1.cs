@@ -72,5 +72,22 @@ namespace Morse_Code_Converter
                 }
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Clear();
+            textBox1.Clear();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            System.Windows.Forms.Clipboard.SetText(label1.Text);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            textBox1.Text =  System.Windows.Forms.Clipboard.GetText();
+
+        }
     }
 }
